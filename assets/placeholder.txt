@@ -1,0 +1,32 @@
+FILES TO ADD TO THIS FOLDER:
+
+ 1. background.mp4 – Background Video
+    - Format: MP4
+    - Resolution: 1920x1080 or more
+    - Style: Dark, atmospheric
+
+ 2. audio.mp3 – Background music
+    - Format: MP3
+    - Duration: 2-5 minutes
+    - Style: Ambient, electronic
+
+ 3. avatar.png – Profile image
+    - Format: PNG
+    - Size: 300x300 pixels minimum
+    - Style: Portrait or logo
+
+ 4. cursor.gif – Custom cursor
+    - Format: GIF
+    - Size: 16x32 pixels
+    - Style: Animated cursor
+
+ TO TEST THE SITE WITHOUT THESE FILES:
+ - The site will work but will display errors in the console.
+ - Video and audio elements will not load.
+ - The avatar will display a broken image.
+ - The cursor will use the default cursor.
+
+ RECOMMENDATIONS:
+ - Use reasonably sized files for fast loading
+ - Optimize videos and audio for the web
+ - Test on different browsers
