@@ -15,16 +15,16 @@ FILES TO ADD TO THIS FOLDER:
     - Size: 300x300 pixels minimum
     - Style: Portrait or logo
 
- 4. cursor.gif – Custom cursor
+ 4. SM.gif – Custom SM
     - Format: GIF
     - Size: 16x32 pixels
-    - Style: Animated cursor
+    - Style: Animated SM
 
  TO TEST THE SITE WITHOUT THESE FILES:
  - The site will work but will display errors in the console.
  - Video and audio elements will not load.
  - The avatar will display a broken image.
- - The cursor will use the default cursor.
+ - The SM will use the default SM.
 
  RECOMMENDATIONS:
  - Use reasonably sized files for fast loading
